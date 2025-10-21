@@ -1,0 +1,1 @@
+import{_ as c,c as n,a as e,o as s}from"#entry";const t={},a={class:"hero"};function r(i,o){return s(),n("section",a,[...o[0]||(o[0]=[e("div",{class:"hero-container"},[e("div",{class:"hero-container-content"}),e("div",{class:"hero-container-content"})],-1)])])}const _=c(t,[["render",r],["__scopeId","data-v-f86375c5"]]);export{_ as default};
